@@ -1,0 +1,50 @@
+{
+    "1" : 
+    {
+        "title": "ClassifAI",
+        "paragraph": "In the ever-evolving landscape of education, the quest for effective teaching and learning methods has always been at the forefront. Recognizing the profound impact of quality teaching on student outcomes, educators and researchers continually seek innovative ways to enhance instructional effectiveness. As technology continues to permeate every facet of our lives, it is imperative to explore its application in the realm of education. Artificial Intelligence (AI) emerges as a potential game-changer in this quest. This research project aims to explore the transformative potential of AI in the context of classroom observation and instructional effectiveness.",
+        "image": "/ClassifAI.jpeg",
+        "alt": "ClassifAI",
+        "link": "/classifai"
+    },
+    "2" : 
+    {
+        "title": "Go2AI",
+        "paragraph": "AlphaGo was an artificial intelligence algorithm. In late 2015, it defeated a human professional player at the board game Go for the first time in history; this was a signal achievement in computer science in general, and a breakthrough in the field of AI in particular. Since then, successors of AlphaGo have reached even greater playing strength. The incorporation of artificial neural network was a critical feature in the design of those algorithms.",
+        "image": "/Go2AI.jpeg",
+        "alt": "Go2AI",
+        "link": "/go2ai"
+    },
+    "3" : 
+    {
+        "title": "AI Rosetta Stone",
+        "paragraph": "In the annals of history, countless civilizations and cultures have left their mark through written languages. These linguistic relics contain the essence of human experience, conveying the stories, knowledge, and cultural heritage of their time. However, a significant number of these languages have been silenced by the sands of time, leaving us with a tantalizing glimpse into our past and a trove of untapped knowledge. This research project embarks on an ambitious and transformative journey to resurrect lost languages through the application of Artificial Intelligence (AI).",
+        "image": "/RosettaStone.jpeg",
+        "alt": "AI Rosetta Stone",
+        "link": "/airosettastone"
+    },
+    "4" : 
+    {
+        "title": "Eureka Labs",
+        "paragraph": "Eureka Labs represents a transformative leap in cybersecurity education, forging a new path toward proficiency and innovation in the field. By emphasizing practical, hands-on learning, Eureka Labs bridges the gap between theoretical knowledge and real-world application, equipping its participants with the tools and acumen needed to safeguard our digital realm effectively.",
+        "image": "/Eureka.jpeg",
+        "alt": "Eureka Labs",
+        "link": "/eurekalabs"
+    },
+    "5" : 
+    {
+        "title": "AI Literacy Education",
+        "paragraph": "We plan to develop an introductory AI course at TCU, designed for all students. This interdisciplinary course will be led by a diverse team of faculty members, each bringing their unique expertise in AI as it applies to their respective fields. Our collaborative approach involves each instructor crafting and delivering their own AI-focused content over a 1-2 week period. Currently, we have nine enthusiastic faculty members from four different colleges within TCU, each committed to teaching a module. We are actively seeking additional instructors who are passionate about AI and eager to contribute to this innovative course. If you are interested in joining our team and shaping the AI education at TCU, we encourage you to come on board!",
+        "image": "/literacy.jpg",
+        "alt": "AI Literacy Education",
+        "link": "/ailiteracy"
+    },
+    "6" : 
+    {
+        "title": "Finding Nemo",
+        "paragraph": "This project aims to develop and test an AI-powered intervention on substance use and related behavioral issues for youth in transition. The intervention will focus on two important types of psychosocial functioning underlying substance use in daily life: social communication and emotion regulation, and integrate two components: an AI-delivered personalized intervention and AI-powered in vivo assessment on intra-personal and ecological factors.",
+        "image": "/nemo.jpeg",
+        "alt": "Finding Nemo",
+        "link": "/findingnemo"
+    }
+}
