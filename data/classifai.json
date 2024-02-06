@@ -1,0 +1,50 @@
+{
+    "1" : 
+    {
+        "name": "Dr. Michael Faggella-Luby",
+        "paragraph": "Dr. Faggella-Luby is a Professor of Special Education and Core Faculty of the Alice Neeley Special Education Research and Service (ANSERS) Institute.",
+        "image": "/projects/classifai/michael.jpg",
+        "alt": "Dr. Michael Faggella-Luby",
+        "link": "https://coe.tcu.edu/about/faculty-staff/view/michael-faggella-luby"
+    },
+    "2" : 
+    {
+        "name": "Dr. Curby Alexander",
+        "paragraph": "Curby Alexander is an Associate Professor of Professional Practice in the TCU College of Education. He teaches courses on the foundations of education, instructional methods, digital communication and collaboration, and experiential education. His current scholarship is focused on K-12 technology integration, cybersecurity education and workforce development, and geospatial education. For more information about Curby’s teaching, research, and writing, visit curbyalexander.net.",
+        "image": "/projects/classifai/curby.jpg",
+        "alt": "Dr. Curby Alexander",
+        "link": "https://coe.tcu.edu/about/faculty-staff/view/curby-alexander"
+    },
+    "3" : 
+    {
+        "name": "Dr. Liran Ma",
+        "paragraph": "Dr. Ma is a Professor in the Department of Computer Science at Texas Christian University. His current research interests cover the security and reliability of networked information systems (such as Wi-Fi networks, cognitive radio networks, vehicular networks, sensor networks, social networks, and cloud services), and algorithms and protocols for smartphone based systems and applications (such as smart health and care), Internet of Things (IoT), artificial intelligence and security education.",
+        "image": "/projects/classifai/ma_liran.jpg",
+        "alt": "Dr. Liran Ma",
+        "link": "http://csfaculty.tcu.edu/ma/"
+    },
+    "4" : 
+    {
+        "name": "Dr. Jonathan Cohen",
+        "paragraph": "Jonathan Cohen (Jonathan D. Cohen) is an associate professor in the Department of Learning Sciences and an affiliate faculty member of the Curriculum and Instruction Ed.D program and the Master’s of Arts in Creative and Innovative Education program. His work explores teaching and learning in technology-supported constructionist learning environments. His research focuses both on the design, development, and implementation of constructionist curricula in formal and informal learning environments as well as on the infrastructure necessary to support the development and implementation of such curricula.",
+        "image": "/projects/classifai/cohen.jpg",
+        "alt": "Dr. Jonathan Cohen",
+        "link": "https://education.gsu.edu/profile/jonathan-cohen/"
+    },
+    "5" : 
+    {
+        "name": "Dr. Zhipeng Cai",
+        "paragraph": "Dr. Zhipeng Cai is a Professor in the Department of Computer Science at Georgia State University, an Affiliate Professor in the Department of Computer Information Systems at Robinson College of Business, and the Associate Director of Georgia State’s INSPIRE Center. Dr. Cai’s research expertise lies in the areas of resource management and scheduling, high-performance computing, cyber-security, privacy, networking, and big data.",
+        "image": "/projects/classifai/cai3.jpg",
+        "alt": "Dr. Zhipeng Cai",
+        "link": "https://cai.csgsu.org/"
+    },
+    "6" : 
+    {
+        "name": "Dr. Honghui Xu",
+        "paragraph": "Dr. Honghui Xu is currently an Assistant Professor of Information Technology with Kennesaw State University, Kennesaw, GA, USA. He received a Ph.D. degree in computer science from Georgia State University, Atlanta, GA, USA, in 2023 and a Bachelor’s degree from University of Electronic Science and Technology of China. His research focuses on data privacy and security in AI, deep learning, and Internet of Things.",
+        "image": "/projects/classifai/honghuixu.jpg",
+        "alt": "Dr. Honghui Xu",
+        "link": "https://honghuixuhenry.github.io/"
+    }
+}
