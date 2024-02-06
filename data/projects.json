@@ -127,11 +127,11 @@
                 "link": "https://cse.tcu.edu/mathematics/faculty-staff/view/zeli-dou"
             },
             {
-                "name":"Dr. Curby Alexander",
-                "paragraph":"Curby Alexander is an Associate Professor of Professional Practice in the TCU College of Education. He teaches courses on the foundations of education, instructional methods, digital communication and collaboration, and experiential education. His current scholarship is focused on K-12 technology integration, cybersecurity education and workforce development, and geospatial education. For more information about Curby’s teaching, research, and writing, visit curbyalexander.net.",
-                "image":"/projects/ailiteracyeducation/curby.jpg",
-                "alt":"Dr. Curby Alexander",
-                "link":"https://coe.tcu.edu/about/faculty-staff/view/curby-alexander"
+                "name": "Dr. Curby Alexander",
+                "paragraph": "Curby Alexander is an Associate Professor of Professional Practice in the TCU College of Education. He teaches courses on the foundations of education, instructional methods, digital communication and collaboration, and experiential education. His current scholarship is focused on K-12 technology integration, cybersecurity education and workforce development, and geospatial education. For more information about Curby’s teaching, research, and writing, visit curbyalexander.net.",
+                "image": "/projects/ailiteracyeducation/curby.jpg",
+                "alt": "Dr. Curby Alexander",
+                "link": "https://coe.tcu.edu/about/faculty-staff/view/curby-alexander"
             }
         ]
     },
@@ -152,6 +152,40 @@
                 "image": "/projects/findingnemo/ma_liran.jpg",
                 "alt": "Dr. Liran Ma",
                 "link": "http://csfaculty.tcu.edu/ma/"
+            }
+        ]
+    },
+    "eurekalabs": {
+        "title": "Eureka Labs: Hands-on Labs For Learning Security",
+        "paragraph": "Our mission is to support students, practitioners, and educators in learning and teaching security concepts and technologies through hands-on, inquiry-based labs. The field of cybersecurity includes a treasure-trove of elegant concepts and clever techniques. Eureka Labs targets students at different levels, taking them on an interactive journey where they observe facts, ask questions, gather information, investigate clues, research answers, and ultimately implement appropriate measures.",
+        "team": [
+            {
+                "name": "Dr. Liran Ma",
+                "paragraph": "Dr. Ma is a Professor in the Department of Computer Science at Texas Christian University. His current research interests cover the security and reliability of networked information systems (such as Wi-Fi networks, cognitive radio networks, vehicular networks, sensor networks, social networks, and cloud services), and algorithms and protocols for smartphone based systems and applications (such as smart health and care), Internet of Things (IoT), artificial intelligence and security education.",
+                "image": "/projects/eureka/ma.png",
+                "alt": "Dr. Liran Ma",
+                "link": "http://csfaculty.tcu.edu/ma/"
+            },
+            {
+                "name": "Dr. Curby Alexander",
+                "paragraph": "Curby Alexander is an Associate Professor of Professional Practice in the TCU College of Education. He teaches courses on the foundations of education, instructional methods, digital communication and collaboration, and experiential education. His current scholarship is focused on K-12 technology integration, cybersecurity education and workforce development, and geospatial education. For more information about Curby’s teaching, research, and writing, visit curbyalexander.net.",
+                "image": "/projects/eureka/alexander.jpg",
+                "alt": "Dr. Curby Alexander",
+                "link": "https://coe.tcu.edu/about/faculty-staff/view/curby-alexander"
+            },
+            {
+                "name": "Dr. Zhipeng Cai",
+                "paragraph": "Dr. Zhipeng Cai is a Professor in the Department of Computer Science at Georgia State University, an Affiliate Professor in the Department of Computer Information Systems at Robinson College of Business, and the Associate Director of Georgia State’s INSPIRE Center. Dr. Cai’s research expertise lies in the areas of resource management and scheduling, high-performance computing, cyber-security, privacy, networking, and big data.",
+                "image": "/projects/eureka/cai.jpg",
+                "alt": "Dr. Zhipeng Cai",
+                "link": "https://cai.csgsu.org/"
+            },
+            {
+                "name": "Dr. Wei Cheng",
+                "paragraph": "Dr. Wei Cheng is an Wireless Networking Systems, Cybersecurity, and Smart City expert with more than 20 years experience. His career milestones include being an Associate Professor and Computer Science and Systems Chair at the University of Washington (Tacoma Campus), an Assistant Professor of Computer Science with the Virginia Commonwealth University, a Research Assistant Professor of Computer Science at the University of Massachusetts Lowell, and a Postdoc with the University of California Davis. Wei received his Ph.D. from the George Washington University.",
+                "image": "/projects/eureka/cheng.jpg",
+                "alt": "Dr. Wei Cheng",
+                "link": "https://faculty.washington.edu/uwcheng/"
             }
         ]
     }
