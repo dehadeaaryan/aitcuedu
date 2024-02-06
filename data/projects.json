@@ -134,5 +134,25 @@
                 "link":"https://coe.tcu.edu/about/faculty-staff/view/curby-alexander"
             }
         ]
+    },
+    "findingnemo": {
+        "title": "Charting the voyage in the digital realm: Addressing the risk of substance use among youth aging out the child welfare system with AI informed intervention",
+        "paragraph": "This project aims to develop and test an AI-powered intervention on substance use and related behavioral issues for youth in transition. The intervention will focus on two important types of psychosocial functioning underlying substance use in daily life: social communication and emotion regulation, and integrate two components: an AI-delivered personalized intervention and AI-powered in vivo assessment on intra-personal and ecological factors.",
+        "team": [
+            {
+                "name": "Dr. Yang Yang",
+                "paragraph": "Yang Yang is a graduate of the IBR and joined the IBR as a Research Scientist in January 2020. Before returning to the IBR, she served as an Assistant Professor in the Department of Psychology at the University of Louisiana at Lafayette. She served as a PI on an externally funded project looking at factors associated with health-risk behaviors among young adults. Her research interests include substance use treatment for justice-involved individuals, health disparities, and advanced research methodology.",
+                "image": "/projects/findingnemo/yangyang.jpg",
+                "alt": "Dr. Yang Yang",
+                "link": "https://ibr.tcu.edu/about/yang-yang/"
+            },
+            {
+                "name": "Dr. Liran Ma",
+                "paragraph": "Dr. Ma is a Professor in the Department of Computer Science at Texas Christian University. His current research interests cover the security and reliability of networked information systems (such as Wi-Fi networks, cognitive radio networks, vehicular networks, sensor networks, social networks, and cloud services), and algorithms and protocols for smartphone based systems and applications (such as smart health and care), Internet of Things (IoT), artificial intelligence and security education.",
+                "image": "/projects/findingnemo/ma_liran.jpg",
+                "alt": "Dr. Liran Ma",
+                "link": "http://csfaculty.tcu.edu/ma/"
+            }
+        ]
     }
 }
